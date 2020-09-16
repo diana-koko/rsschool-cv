@@ -5,7 +5,10 @@ Interested to work as a Frontend Programmer in your company where I can show my 
 
 ###Personal Information###
 
-
+Date of Birth: 13.08.1986 
+Address: Moscow, Omskaya str. 14/2, app. 159
+Tel: 8 (926) 954-84-28
+E-mail: diana_kas86@mail.ru
 
  ###Education###
 
