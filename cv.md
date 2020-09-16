@@ -1,4 +1,4 @@
-##**Kasatkina **##
+##**Kasatkina Diana**##
 
 ###Career Objective###
 Interested to work as a Frontend Programmer in your company where I can show my skills in programming to help the company grow.
