@@ -1,0 +1,79 @@
+body {
+  font-family: Georgia, "Times New Roman", Times, serif;
+  background-color: darkcyan;
+}
+
+div {
+  padding: 10px;
+  margin: auto;
+  width: 50%;
+  color: black;
+  background-color: powderblue;
+  border-radius: 20px;
+}
+
+footer {
+  margin-top: 30px;
+  padding-top: 10px;
+  text-align: center;
+  border-top: 2px solid darkslategrey;
+}
+
+header {
+  margin-left: 24%;
+  margin-bottom: 50px;
+  float: left;
+  width: 300px;
+  height: 165px;
+  text-align: center;
+  background-color: powderblue;
+  border-radius: 20px;
+}
+
+img {
+  margin-left: 50px;
+  float: left;
+  height: 170px;
+  width: 170px;
+  border-radius: 50%;
+  border: 5px solid darkslategrey;
+}
+
+
+section {
+  width: 80%;
+  background-color: powderblue;
+}
+
+.blue-underline {
+  font-family: "Gill Sans", "Times New Roman", Times, serif;
+  font-size: xx-large;
+  color: darkcyan;
+  text-decoration: overline;
+  text-decoration-style: solid;
+  text-decoration-color: darkcyan;
+}
+
+.clear {
+  clear: left;
+}
+
+.horizontal {
+  display: inline;
+}
+
+.underline, h3 {
+  text-align: center;
+  text-decoration: underline;
+  text-decoration-style: solid;
+  text-decoration-color: black;
+}
+
+
+
+
+
+
+
+
+
